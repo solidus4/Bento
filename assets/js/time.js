@@ -7,7 +7,9 @@ window.onload = displayClock();
 function displayClock() {
 	const monthNames = ['Jan', 'Feb', 'Mar', 'Apr', 'May', 'Jun', 'Jul', 'Aug', 'Sep', 'Oct', 'Nov', 'Dec'];
 
+	var offset = -6 * 60 * 60 * 1000;
 	var d = new Date();
+	d.setTime(d.getTime() + offset + 60 * 1000);
 	var mm = monthNames[d.getMonth()];
 	var dd = d.getDate();
 	var min = (mins = ('0' + d.getMinutes()).slice(-2));
