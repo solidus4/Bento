@@ -77,15 +77,15 @@ const CONFIG = {
 		},
 		{
 			id: '5',
-			name: 'Reddit',
+			name: 'Chatgpt',
 			icon: 'glasses',
 			link: 'https://chatgpt.com',
 		},
 		{
 			id: '6',
-			name: 'Odysee',
-			icon: 'youtube',
-			link: 'https://odysee.com/',
+			name: 'Reddit',
+			icon: 'reddit',
+			link: 'https://old.reddit.com/',
 		},
 	],
 
