@@ -50,7 +50,7 @@ const CONFIG = {
 	// ├┴┐│ │ │  │ │ ││││└─┐
 	// └─┘└─┘ ┴  ┴ └─┘┘└┘└─┘
 
-/*	firstButtonsContainer: [
+	firstButtonsContainer: [
 		{
 			id: '1',
 			name: 'Github',
@@ -127,7 +127,7 @@ const CONFIG = {
 			link: 'https://figma.com/',
 		},
 	],
-*/
+/*
 	// ┬  ┬┌─┐┌┬┐┌─┐
 	// │  │└─┐ │ └─┐
 	// ┴─┘┴└─┘ ┴ └─┘
@@ -179,7 +179,7 @@ const CONFIG = {
 			],
 		},
 	],
-
+*/
 	// Second Links Container
 	secondListsContainer: [
 		{
