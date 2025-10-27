@@ -11,7 +11,7 @@ const CONFIG = {
 	// └─┘┴ ┴└─┘┴└─┘└─┘
 
 	// General
-	name: 'Marshall',
+	name: 'Marina',
 	imageBackground: false,
 	openInNewTab: true,
 	twelveHourFormat: false,
